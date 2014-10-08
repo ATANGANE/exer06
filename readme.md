@@ -1,0 +1,5 @@
+##SIO2109
+
+#ATANGANE
+
+exercice6
