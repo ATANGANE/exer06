@@ -1,0 +1,8 @@
+ex06
+
+?/20
+
+Je ne peux pas exécuter le code (couleur rouge).
+
+Utilisez le dossier lib  (voir mes exemples).
+
